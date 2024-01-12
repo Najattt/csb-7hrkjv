@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-7hrkjv/static/css/main.8f5407b5.chunk.css",
+    "main.js": "https://.github.io/csb-7hrkjv/static/js/main.1473e88a.chunk.js",
+    "main.js.map": "https://.github.io/csb-7hrkjv/static/js/main.1473e88a.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-7hrkjv/static/js/runtime-main.bd31b3a8.js",
+    "runtime-main.js.map": "https://.github.io/csb-7hrkjv/static/js/runtime-main.bd31b3a8.js.map",
+    "static/css/2.a74fb27b.chunk.css": "https://.github.io/csb-7hrkjv/static/css/2.a74fb27b.chunk.css",
+    "static/js/2.fe8f08d9.chunk.js": "https://.github.io/csb-7hrkjv/static/js/2.fe8f08d9.chunk.js",
+    "static/js/2.fe8f08d9.chunk.js.map": "https://.github.io/csb-7hrkjv/static/js/2.fe8f08d9.chunk.js.map",
+    "index.html": "https://.github.io/csb-7hrkjv/index.html",
+    "static/css/2.a74fb27b.chunk.css.map": "https://.github.io/csb-7hrkjv/static/css/2.a74fb27b.chunk.css.map",
+    "static/css/main.8f5407b5.chunk.css.map": "https://.github.io/csb-7hrkjv/static/css/main.8f5407b5.chunk.css.map",
+    "static/js/2.fe8f08d9.chunk.js.LICENSE.txt": "https://.github.io/csb-7hrkjv/static/js/2.fe8f08d9.chunk.js.LICENSE.txt",
+    "static/media/Chat.css": "https://.github.io/csb-7hrkjv/static/media/send.a0a33126.png",
+    "static/media/ChatLeft.css": "https://.github.io/csb-7hrkjv/static/media/user_icon.c1b6ae31.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd31b3a8.js",
+    "static/css/2.a74fb27b.chunk.css",
+    "static/js/2.fe8f08d9.chunk.js",
+    "static/css/main.8f5407b5.chunk.css",
+    "static/js/main.1473e88a.chunk.js"
+  ]
+}
